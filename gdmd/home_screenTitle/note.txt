@@ -1,0 +1,7 @@
+
+	Project is intended for PHInfra tools and scripts.
+      x Make sure you UPDATED the scripts and they are all inside the
+	Godmode/PHInfrascripts folder to run them.
+	THANKS! -Josh" 
+		
+	     *Project is intended for PHInfra tools and scripts.*

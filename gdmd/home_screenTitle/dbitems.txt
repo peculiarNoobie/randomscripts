@@ -1,0 +1,6 @@
+starwars:bash:/home_screenTitle/starwars.sh
+ejbca:bash:PHInfrascripts/ejbca/EJBCA.sh:https://intranet.internal.globalsign.com/stash/scm/~joshua.garcia/ejbca.git
+hvca:py:PHInfrascripts/hvca-blacklisting-tool/HVCA Blacklisting Tool/HVCABlackListScript.py:https://intranet.internal.globalsign.com/stash/scm/~john.conchas/hvca-blacklisting-tool.git
+phinfra:py:PHInfrascripts/ph_infra_report/PH Infra v0.2.:https://intranet.internal.globalsign.com/stash/scm/~lester.javier/ph_infra_report.gitasd:asd:asd:asd
+ssha_pass:py:PHInfrascripts/ops-tools/ssha_.py:https://intranet.internal.globalsign.com/stash/scm/dct/ops-tools.git
+sha512_pass:py:PHInfrascripts/ops-tools/sha512_pass.py:https://intranet.internal.globalsign.com/stash/scm/dct/ops-tools.git
