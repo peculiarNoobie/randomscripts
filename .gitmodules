@@ -1,0 +1,15 @@
+[submodule "PHInfrascripts/hvca-blacklisting-tool"]
+	path = PHInfrascripts/hvca-blacklisting-tool
+	url = https://intranet.internal.globalsign.com/stash/scm/~john.conchas/hvca-blacklisting-tool.git
+
+[submodule "PHInfrascripts/ejbca"]
+	path = PHInfrascripts/ejbca
+	url = https://intranet.internal.globalsign.com/stash/scm/~joshua.garcia/ejbca.git
+
+[submodule "PHInfrascripts/ph_infra_report"]
+	path = PHInfrascripts/ph_infra_report
+	url = https://intranet.internal.globalsign.com/stash/scm/~joshua.garcia/phinfra.git
+
+[submodule "PHInfrascripts/ops-tools"]
+	path = PHInfrascripts/ops-tools
+	url = https://intranet.internal.globalsign.com/stash/scm/dct/ops-tools.git
