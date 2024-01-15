@@ -1,8 +1,19 @@
+import pygetwindow as gw
+import pyautogui as ag
 import win32gui
 import win32con
+import time 
+
+def get_active_window_title():
+    hwnd = win32gui.GetForegroundWindow()
+    title = win32gui.GetWindowText(hwnd)
+    return title
+
+print("select your window")
+time.sleep(5)
 
 # Define the title of the application you want to manipulate
-app_title = "PH SOC Josh dashboard (TEST) - GMO GlobalSign JIRA - Google Chrome"
+app_title = get_active_window_title()
 
 # Find the window by its title
 hwnd = win32gui.FindWindow(None, app_title)

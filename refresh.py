@@ -11,8 +11,10 @@ while True:
         print("pause")
         t.sleep(60)
     else:
-        p.click(2839, -271)
+        p.click(2533, 414)
         p.hotkey("f5")
+        t.sleep(900)
+        p.click(3314, 418)
         t.sleep(900)
 
 
